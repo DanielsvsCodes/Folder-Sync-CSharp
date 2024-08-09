@@ -8,6 +8,7 @@ Folder Sync is a C# command-line application designed to synchronize two directo
 - Periodic Synchronization: Synchronization occurs periodically at intervals specified by the user.
 - Logging: All file operations (creation, copying, and deletion) are logged to both a file and the console.
 - Command-line Configuration: Folder paths, synchronization intervals, and log file paths are provided via command-line arguments.
+- Directory Creation Prompt: If the specified source or replica directory does not exist, the user is prompted to create it.
 - No Third-party Libraries: The synchronization logic is implemented using .NET's built-in libraries.
 
 ## Requirements
@@ -43,7 +44,17 @@ dotnet run -- "..\SourceFolder" "..\ReplicaFolder" 30 "..\sync.log"
 - `<intervalInSeconds>`: The synchronization interval in seconds (e.g., 60 for every 60 seconds).
 - `<logFilePath>`: The path to the log file where operations are recorded.
 
-4. Stopping the Application
+4. Handling Non-Existent Directories:
+
+If the specified source or replica directory does not exist, the program will prompt you to create it:
+```
+Source directory 'C:\Invalid\SourcePath' does not exist. Would you like to create it? (y/n):
+```
+- If you type y, the directory will be created, and the program will proceed.
+- If you type n, the program will exit, as the directory is required for synchronization.
+
+5. Stopping the Application:
+
 The application will continue running, performing synchronization at the specified interval. To stop the application, press [CTRL] + C in the terminal where the application is running.
 
 ## Project Structure
