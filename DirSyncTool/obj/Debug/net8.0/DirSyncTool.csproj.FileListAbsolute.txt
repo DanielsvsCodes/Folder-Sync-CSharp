@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\bin\Debug\net8.0\DirSyncTool.exe
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\bin\Debug\net8.0\DirSyncTool.deps.json
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\bin\Debug\net8.0\DirSyncTool.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\bin\Debug\net8.0\DirSyncTool.dll
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\bin\Debug\net8.0\DirSyncTool.pdb
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.sourcelink.json
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.dll
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\refint\DirSyncTool.dll
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.pdb
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\DirSyncTool.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\folder-sync\DirSyncTool\obj\Debug\net8.0\ref\DirSyncTool.dll

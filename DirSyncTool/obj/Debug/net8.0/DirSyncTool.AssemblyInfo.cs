@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DirSyncTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f1a184b15b40c2c3feccb8a5f5f7b3eca2c7748")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87e0f60b2173780d4b145fc727e8a455c3a02774")]
 [assembly: System.Reflection.AssemblyProductAttribute("DirSyncTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DirSyncTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
