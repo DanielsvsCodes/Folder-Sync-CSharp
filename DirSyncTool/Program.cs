@@ -28,6 +28,7 @@ namespace DirSyncTool
         {
             if (args.Length < 4)
             {
+                Console.WriteLine("Error: Missing required arguments.");
                 return null;
             }
 

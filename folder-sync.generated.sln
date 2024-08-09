@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirSyncTool", "DirSyncTool\DirSyncTool.csproj", "{79EFFB5F-C05D-433B-8D2A-B0EF745FE7BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirSyncTool", "DirSyncTool\DirSyncTool.csproj", "{BEAC06E2-51F3-41CB-B636-12E42E174B50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,10 +10,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{79EFFB5F-C05D-433B-8D2A-B0EF745FE7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79EFFB5F-C05D-433B-8D2A-B0EF745FE7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79EFFB5F-C05D-433B-8D2A-B0EF745FE7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79EFFB5F-C05D-433B-8D2A-B0EF745FE7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEAC06E2-51F3-41CB-B636-12E42E174B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAC06E2-51F3-41CB-B636-12E42E174B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAC06E2-51F3-41CB-B636-12E42E174B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAC06E2-51F3-41CB-B636-12E42E174B50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
