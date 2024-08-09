@@ -31,11 +31,11 @@ dotnet build
 
 3. Running the Application:
    
-You can run the application directly from the command line by specifying the source directory, replica directory, synchronization interval (in seconds), and log file path.
+   You can run the application directly from the command line by specifying the source directory, replica directory, synchronization interval (in seconds), and log file path.
 ```
 dotnet run -- "<sourcePath>" "<replicaPath>" <intervalInSeconds> "<logFilePath>"
 ```
-Example used for testing:
+   Example used for testing:
 ```
 dotnet run -- "..\SourceFolder" "..\ReplicaFolder" 30 "..\sync.log"
 ```
@@ -46,7 +46,7 @@ dotnet run -- "..\SourceFolder" "..\ReplicaFolder" 30 "..\sync.log"
 
 4. Handling Non-Existent Directories:
 
-If the specified source or replica directory does not exist, the program will prompt you to create it:
+   If the specified source or replica directory does not exist, the program will prompt you to create it:
 ```
 Source directory 'C:\Invalid\SourcePath' does not exist. Would you like to create it? (y/n):
 ```
@@ -55,7 +55,7 @@ Source directory 'C:\Invalid\SourcePath' does not exist. Would you like to creat
 
 5. Stopping the Application:
 
-The application will continue running, performing synchronization at the specified interval. To stop the application, press [CTRL] + C in the terminal where the application is running.
+   The application will continue running, performing synchronization at the specified interval. To stop the application, press [CTRL] + C in the terminal where the application is running.
 
 ## Project Structure
 
