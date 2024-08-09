@@ -29,6 +29,7 @@ dotnet build
 ```
 
 3. Running the Application:
+   
 You can run the application directly from the command line by specifying the source directory, replica directory, synchronization interval (in seconds), and log file path.
 ```
 dotnet run -- "<sourcePath>" "<replicaPath>" <intervalInSeconds> "<logFilePath>"
